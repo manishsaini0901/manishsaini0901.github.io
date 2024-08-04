@@ -26,7 +26,7 @@
     - tag: Sensor Fusion
     - tag: C++
     - tag: g2o
-  timeline-side: right
+  timeline-side: left
 
 - title: Fraunhofer FKIE
   title-url: https://example.com/

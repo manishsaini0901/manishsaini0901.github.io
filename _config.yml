@@ -34,7 +34,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a Mechatronics Engineer who loves building Robotics Products. My latest project was an Automated Guided Vehicle which perceives the world using 3d camera sensor and finds its own way around. Right now, i'm searching for opportunities in Robotics industry related to AGV, UAV and underline technologies.
+about_me_description: I'm an Autonomous Systems graduate who loves working on autonomous robots. My latest project was a novel sensor fusion-based SLAM algorithm that fuses 3D LiDAR and 3D camera data at the semantic level. I'm seeking opportunities in the autonomous systems industry related to Mobile Robots, Augmented Reality, and Autonomous Vehicles.
+
 #Skills : Robot Operating System(ROS), SLAM, Python, C++, Embedded C.
 
 #Interests : Computer Vision, Augmented Reality, Machine Learning, Self Driving Cars, Virtual reality.</a>.
@@ -56,7 +57,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: manishsaini0901/manishsaini0901.github.io
 
 # PROJECTS SECTION
 # show_projects_card:
