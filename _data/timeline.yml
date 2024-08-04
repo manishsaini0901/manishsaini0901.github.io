@@ -17,45 +17,45 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: Neura Robotics
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: Oct 2023 - July 2024
+  subtitle: Working Student
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: SLAM
+    - tag: Sensor Fusion
+    - tag: C++
+    - tag: g2o
   timeline-side: right
 
-- title: Google
+- title: Fraunhofer FKIE
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Jan 2023 - Sep 2023
+  subtitle: Working Student
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: SLAM
+    - tag: Sensor Fusion
+    - tag: Python
   timeline-side: right
 
-- title: Super University
+- title: Supro Robotics
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2021 - 2022
+  subtitle: Robotics Software Engineer
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
+# - title: 
+#   title-url: https://example.com/
+#   date: Sep 2017 - Mar 2019
+#   subtitle: Front-End Developer as Intern
+#   tags:
+#     - tag: React
+#     - tag: Node
+#     - tag: Javascript
+#   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left
