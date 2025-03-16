@@ -13,28 +13,80 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Base Placement Planning for Object Grasping
-  descr: "RoboCup competition task which led us to achieve 2nd position worldwide at Heart-MET robotics competition 2023. To plan an optimal trajectory for the robot to grasp an object (selected through hand gestures). Developed algorithm using Open3D library and machine learning techniques for processing 3d point cloud which considers optimal trajectory criteria"
-  demo: https://example.com/
-  tags:
-    - tag: State Machine
-    - tag: ROS
-    - tag: State Estimation & Mapping
-    - tag: Planning
+# - name: Base Placement Planning for Object Grasping
+#   descr: "RoboCup competition task which led us to achieve 2nd position worldwide at Heart-MET robotics competition 2023. To plan an optimal trajectory for the robot to grasp an object (selected through hand gestures). Developed algorithm using Open3D library and machine learning techniques for processing 3d point cloud which considers optimal trajectory criteria"
+#   demo: https://example.com/
+#   tags:
+#     - tag: State Machine
+#     - tag: ROS
+#     - tag: State Estimation & Mapping
+#     - tag: Planning
 
-- name: Gesture and Activity Recognition using CNN and LSTM deep learning models
-  descr: "Deep learning for robotics course module in 2023. To recognize and categorize human gestures and activity into their respective classes. Achieved 90 percent accuracy by combining two learning models, one trained on finger key points and one on face movements"
-  demo: https://example.com/
-  tags:
-    - tag: Computer Vision
-    - tag: Deep Learning
+# - name: Gesture and Activity Recognition using CNN and LSTM deep learning models
+#   descr: "Deep learning for robotics course module in 2023. To recognize and categorize human gestures and activity into their respective classes. Achieved 90 percent accuracy by combining two learning models, one trained on finger key points and one on face movements"
+#   demo: https://example.com/
+#   tags:
+#     - tag: Computer Vision
+#     - tag: Deep Learning
 
-- name: Automated warehouse management using Autonomous Robots
-  descr: "Autonomous mobile robots in 2022. Implementation in a simulation using a web interface to order and breadth first search algorithm to search path to store items into empty selves and deliver them to dispatching station in case of requirements by the customer. Considering customer perspective, concepts including use cases, user stories, TDD, BDD, modelling, and distributed systems were used to implement under ROS2 framework"
-  demo: https://example.com/
-  tags: 
-    - tag: use cases
-    - tag: user stories
-    - tag: TDD modelling
-    - tag: BDD modelling
-    - tag: Distributed systems
+# - name: Automated warehouse management using Autonomous Robots
+#   descr: "Autonomous mobile robots in 2022. Implementation in a simulation using a web interface to order and breadth first search algorithm to search path to store items into empty selves and deliver them to dispatching station in case of requirements by the customer. Considering customer perspective, concepts including use cases, user stories, TDD, BDD, modelling, and distributed systems were used to implement under ROS2 framework"
+#   demo: https://example.com/
+#   tags: 
+#     - tag: use cases
+#     - tag: user stories
+#     - tag: TDD modelling
+#     - tag: BDD modelling
+#     - tag: Distributed systems
+
+- name: Gesture and Activity Recognition using CNN and LSTM deep learning models  
+  descr: "Deep learning for robotics course module in 2023. To recognize and categorize human gestures and activities into their respective classes. Achieved 90% accuracy by developing an algorithm using Open3D and deep learning models to process 3D point clouds for optimal trajectory planning."  
+  demo: https://example.com/  
+  tags:  
+    - tag: Computer Vision  
+    - tag: Deep Learning  
+
+- name: Evaluation of Visual SLAM approaches in indoor environment  
+  descr: "R&D project evaluating visual SLAM approaches with self-collected data from an indoor environment using a UAV setup. Data collected using sensors such as RGBD camera, Lidar, event camera, IR camera, and several IMUs, fused together to perform SLAM in a real environment."  
+  demo: https://example.com/  
+  tags:  
+    - tag: SLAM  
+    - tag: Sensor Fusion  
+    - tag: UAV  
+
+- name: Automated warehouse management using Autonomous Robots  
+  descr: "Autonomous mobile robots course module in 2022. Implementation of an autonomous vehicle system in the warehouse to automate the warehouse. Developed from a customer perspective using use cases, user stories, TDD, BDD, modeling, and distributed systems under ROS."  
+  demo: https://example.com/  
+  tags:  
+    - tag: Use Cases  
+    - tag: User Stories  
+    - tag: TDD  
+    - tag: BDD  
+    - tag: Distributed Systems  
+
+- name: Base Placement Planning for Object Grasping using Human Robot Interface (HRI)  
+  descr: "RoboCup competition task which led us to achieve 2nd position worldwide at Heart-MET robotics competition 2023. Developed an algorithm that plans an optimal trajectory for the robot to grasp an object using HRI, considering optimal trajectory criteria."  
+  demo: https://example.com/  
+  tags:  
+    - tag: State Machine  
+    - tag: ROS  
+    - tag: State Estimation & Mapping  
+    - tag: Planning  
+
+- name: Robile Platform - Modular Autonomous Mobile Robot  
+  descr: "Built a modular autonomous robot platform with active and passive wheels, computer, and battery pack. Performed localization, mapping, and navigation using different configurations of the platform’s units. Implemented navigation stack using ROS 1 and developed a wall-following algorithm."  
+  demo: https://example.com/  
+  tags:  
+    - tag: ROS  
+    - tag: Localization  
+    - tag: Mapping  
+    - tag: Navigation  
+
+- name: Autonomous Rover  
+  descr: "Built on the ROS framework to enable autonomous navigation using a 3D camera sensor. Processed 3D point cloud and odometry data from quadrature encoders to perform SLAM. Task involved autonomous navigation in unstructured terrain using a rocker-boogie mechanism."  
+  demo: https://example.com/  
+  tags:  
+    - tag: SLAM  
+    - tag: Navigation  
+    - tag: ROS  
+    - tag: Rocker-Bogie  
