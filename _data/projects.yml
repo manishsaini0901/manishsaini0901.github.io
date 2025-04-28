@@ -3,45 +3,28 @@
 # > demo: Link to your project
 # > tags: List of technologies you used in your projects
 #
-# Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
+# Example of a proj
+- name: Multi-Sensor based Situational Graphs SLAM 
+  descr: "Lidar and Camera sensors are integrated in this SOTA SLAM method by exploiting hierarchy such as planes in the environment."
+  demo: https://youtu.be/U0P-cXXR0kE
+  tags:
+    - tag: g2o
+    - tag: Localization
+    - tag: Optimization
+    - tag: C++
 
 # - name: Base Placement Planning for Object Grasping
 #   descr: "RoboCup competition task which led us to achieve 2nd position worldwide at Heart-MET robotics competition 2023. To plan an optimal trajectory for the robot to grasp an object (selected through hand gestures). Developed algorithm using Open3D library and machine learning techniques for processing 3d point cloud which considers optimal trajectory criteria"
-#   demo: https://example.com/
+#   demo: https://youtu.be/THsavh6b_0k
 #   tags:
 #     - tag: State Machine
 #     - tag: ROS
 #     - tag: State Estimation & Mapping
 #     - tag: Planning
 
-# - name: Gesture and Activity Recognition using CNN and LSTM deep learning models
-#   descr: "Deep learning for robotics course module in 2023. To recognize and categorize human gestures and activity into their respective classes. Achieved 90 percent accuracy by combining two learning models, one trained on finger key points and one on face movements"
-#   demo: https://example.com/
-#   tags:
-#     - tag: Computer Vision
-#     - tag: Deep Learning
-
-# - name: Automated warehouse management using Autonomous Robots
-#   descr: "Autonomous mobile robots in 2022. Implementation in a simulation using a web interface to order and breadth first search algorithm to search path to store items into empty selves and deliver them to dispatching station in case of requirements by the customer. Considering customer perspective, concepts including use cases, user stories, TDD, BDD, modelling, and distributed systems were used to implement under ROS2 framework"
-#   demo: https://example.com/
-#   tags: 
-#     - tag: use cases
-#     - tag: user stories
-#     - tag: TDD modelling
-#     - tag: BDD modelling
-#     - tag: Distributed systems
-
 - name: Gesture and Activity Recognition using CNN and LSTM deep learning models  
   descr: "Deep learning for robotics course module in 2023. To recognize and categorize human gestures and activities into their respective classes. Achieved 90% accuracy by developing an algorithm using Open3D and deep learning models to process 3D point clouds for optimal trajectory planning."  
-  demo: https://example.com/  
+  demo: https://youtu.be/THsavh6b_0k  
   tags:  
     - tag: Computer Vision  
     - tag: Deep Learning  
@@ -66,7 +49,7 @@
 
 - name: Base Placement Planning for Object Grasping using Human Robot Interface (HRI)  
   descr: "RoboCup competition task which led us to achieve 2nd position worldwide at Heart-MET robotics competition 2023. Developed an algorithm that plans an optimal trajectory for the robot to grasp an object using HRI, considering optimal trajectory criteria."  
-  demo: https://example.com/  
+  demo: https://youtu.be/THsavh6b_0k  
   tags:  
     - tag: State Machine  
     - tag: ROS  

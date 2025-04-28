@@ -12,7 +12,7 @@
   weight: 5
 
 - name: Embedded C
-  weight: 1
+  weight: 3
 
 - name: HTML
   weight: 1

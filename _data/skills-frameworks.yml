@@ -19,7 +19,7 @@
   weight: 5
 
 - name: Machine Learning
-  weight: 3
+  weight: 4
 
 - name: Neural Networks
-  weight: 3
+  weight: 4

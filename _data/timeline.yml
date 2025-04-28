@@ -61,9 +61,9 @@
 #   timeline-side: left
 
 - title: CARIAD - Volkswagen Group  
-  title-url: https://example.com/  
+  title-url: https://cariad.technology/de/en/careers.html  
   date: Jan 2025 – Present  
-  subtitle: Internship  
+  subtitle: Traneeship
   descr: "Development of Inertial-Radar SLAM algorithm for autonomous parking of cars. Worked on sensor fusion of multiple radars and inertial sensors. Integrated and implemented SLAM on Audi Q8. Contributed to lidar_situational_graphs (open-sourced SLAM project by SNT LU)."  
   tags:  
     - tag: SLAM  
@@ -73,7 +73,7 @@
   timeline-side: left  
 
 - title: Neura Robotics & University of Luxembourg  
-  title-url: https://example.com/  
+  title-url: https://neura-robotics.com/  
   date: Jan 2024 – Jun 2024  
   subtitle: Working Student & Master's Thesis  
   descr: "Collaborated with the University of Luxembourg (Erasmus+) and Neura Robotics to research and develop a novel multi-sensor SLAM algorithm through semantic fusion of 3D Lidar and 3D camera data by exploiting hierarchical representation. Contributed to lidar_situational_graphs (open-sourced SLAM project by SNT LU)."  
@@ -84,7 +84,7 @@
   timeline-side: right  
 
 - title: Fraunhofer FKIE  
-  title-url: https://example.com/  
+  title-url: https://www.fkie.fraunhofer.de/  
   date: Jan 2023 – Sep 2023  
   subtitle: Research Assistant  
   descr: "Performed comparison and evaluation of visual SLAM methods. Applied sensor fusion methods to improve the accuracy of pose estimation. Worked on various SLAM methods for implementation in autonomous robots."  
@@ -92,7 +92,18 @@
     - tag: SLAM  
     - tag: Sensor Fusion  
     - tag: Pose Estimation  
-  timeline-side: left  
+  timeline-side: left
+
+- title: Hochschule Bonn-Rhein-Sieg  
+  title-url: https://www.fkie.fraunhofer.de/  
+  date: Oct 2022 – Dec 2022  
+  subtitle: Research Assistant  
+  descr: "Developed Static Website from Scratch. Worked for Garrulus Project and supported reforestation using drones."  
+  tags:  
+    - tag: CSS  
+    - tag: Javascript  
+    - tag: HTML  
+  timeline-side: Right
 
 - title: Supro Robotics  
   title-url: https://example.com/  
@@ -107,8 +118,8 @@
   timeline-side: right  
 
 - title: b-it-bots  
-  title-url: https://example.com/  
-  date: Jul 2022 – Jun 2024  
+  title-url: https://www.h-brs.de/en/a2s/b-it-bots  
+  date: Jul 2022 – Dec 2024  
   subtitle: Robotics Software Developer  
   descr: "Led a 7-person team to develop advanced perception and navigation systems for mobile robots, incorporating SOTA technologies. Won first place in the European Robotics League 2023, demonstrating technical leadership and collaboration."  
   tags:  
@@ -119,7 +130,7 @@
   timeline-side: left  
 
 - title: Wingfotech Pvt. Ltd.  
-  title-url: https://example.com/  
+  title-url: https://www.linkedin.com/company/wingfotech/posts/?feedView=all  
   date: Feb 2020 – Apr 2020  
   subtitle: Embedded Engineer Trainee  
   descr: "Worked on projects based on IoT and Embedded Systems, including CanSat Satellite and home automation using Google Assistant. Prepared educational robotics kits for projects like drones and legged robots."  
@@ -130,12 +141,12 @@
     - tag: IoT  
   timeline-side: right  
 
-- title: Triumphant Robotics  
-  title-url: https://example.com/  
+- title: Triumphant Robotics and Eminent Embedded Systems 
+  title-url: https://www.linkedin.com/company/t-r-e-e-s-pvt-ltd-/posts/?feedView=all  
   date: Jun 2019 – Jul 2019  
   subtitle: Mechatronics Intern  
   descr: "Conceptualized, designed, and managed a Novel Service Robot project. Built mockups to test theoretical concepts."  
   tags:  
     - tag: SolidWorks  
     - tag: Project Management  
-  timeline-side: left  
+  timeline-side: left

@@ -11,6 +11,9 @@
 - name: Bash
   weight: 3
 
+- name: Linux
+  weight: 3
+
 - name: VS Code
   weight: 3
 
